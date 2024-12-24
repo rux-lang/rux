@@ -1,2 +1,2 @@
-# rux
+# Rux
 The Rux Programming Language
